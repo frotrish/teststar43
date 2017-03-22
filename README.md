@@ -78,3 +78,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 # teststar43
 # teststar43
+# vovi-
